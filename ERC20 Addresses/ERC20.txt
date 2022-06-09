@@ -1,3 +1,0 @@
-Please Add Text Files With Your ERC20 Address via Pull Request:
-
-[Tutorial] https://www.youtube.com/watch?v=_xL35RX1_nc
